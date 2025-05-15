@@ -5,8 +5,8 @@
   
   <entry>
     <title></title>
-    <link href="/2025/05/16/20250516003015/"/>
-    <url>/2025/05/16/20250516003015/</url>
+    <link href="/MyBlog/2025/05/16/20250516003015/"/>
+    <url>/MyBlog/2025/05/16/20250516003015/</url>
     
     <content type="html"><![CDATA[<pre><code class="hljs">title: 限流算法date: 2013/7/13 20:46:25categories：SpringCloudcomments: true</code></pre><h1 id="常见的限流算法"><a href="#常见的限流算法" class="headerlink" title="常见的限流算法"></a>常见的限流算法</h1><h2 id="漏桶算法"><a href="#漏桶算法" class="headerlink" title="漏桶算法"></a>漏桶算法</h2><h2 id="令牌桶算法"><a href="#令牌桶算法" class="headerlink" title="令牌桶算法"></a>令牌桶算法</h2><h2 id="滑动时间窗口算法"><a href="#滑动时间窗口算法" class="headerlink" title="滑动时间窗口算法"></a>滑动时间窗口算法</h2>]]></content>
     
@@ -18,8 +18,8 @@
   
   <entry>
     <title></title>
-    <link href="/2025/05/16/first/"/>
-    <url>/2025/05/16/first/</url>
+    <link href="/MyBlog/2025/05/16/first/"/>
+    <url>/MyBlog/2025/05/16/first/</url>
     
     <content type="html"><![CDATA[<pre><code class="hljs">title: Hello Worlddate: 2013/7/13 20:46:25</code></pre><h1 id="这是我的第一个个人博客"><a href="#这是我的第一个个人博客" class="headerlink" title="这是我的第一个个人博客"></a>这是我的第一个个人博客</h1><h2 id="我很开始"><a href="#我很开始" class="headerlink" title="我很开始"></a>我很开始</h2><h3 id="欢迎大家前来参观"><a href="#欢迎大家前来参观" class="headerlink" title="欢迎大家前来参观"></a>欢迎大家前来参观</h3>]]></content>
     
@@ -31,8 +31,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="/2025/05/16/hello-world/"/>
-    <url>/2025/05/16/hello-world/</url>
+    <link href="/MyBlog/2025/05/16/hello-world/"/>
+    <url>/MyBlog/2025/05/16/hello-world/</url>
     
     <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
     
